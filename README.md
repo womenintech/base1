@@ -59,6 +59,6 @@ I recently self-published <a href="https://learninpublic.org/?from=GH%20README">
 <li><a href="https://github.com/sw-yx/sw-yx/issues/4">Learning in Public</a>: <img src=https://avatars.githubusercontent.com/u/6764957?u=97ad815028595b73b06ee4b0510e66bbe391228d&v=4&s=20 height=20 /></li>
 <li><a href="https://github.com/sw-yx/sw-yx/issues/3">Self-Starter</a>: <img src=https://avatars.githubusercontent.com/u/6764957?u=97ad815028595b73b06ee4b0510e66bbe391228d&v=4&s=20 height=20 /></li>
 <li><a href="https://github.com/sw-yx/sw-yx/issues/2">JavaScript</a>: <img src=https://avatars.githubusercontent.com/u/6764957?u=97ad815028595b73b06ee4b0510e66bbe391228d&v=4&s=20 height=20 /></li>
-  <li><a href="./issues/new?assignees=&labels=&template=endorsement-template.md&title=Endorse%3A+SKILL_HERE">Endorse new skill!</a></li>
+  <li><a href="https://github.com/womenintech/base1/issues/new?assignees=&labels=&template=endorsement-template.md&title=Endorse%3A+SKILL_HERE">Endorse new skill!</a></li>
   </ul>
   <!--END_SECTION:endorsements-->
